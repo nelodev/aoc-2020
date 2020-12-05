@@ -1,0 +1,19 @@
+{
+  "name": "advent-of-code-2020",
+  "version": "1.0.0",
+  "description": "## Day 1 - 1/12/20 - Report Repair ✅ ⭐️ ⭐️ ## Day 2 - 2/12/20 - Password Philosophy ✅ ⭐️ ⭐️",
+  "main": "base.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelodev/aoc-2020.git"
+  },
+  "author": "Nelo Puchades <correo@nelo.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nelodev/aoc-2020/issues"
+  },
+  "homepage": "https://github.com/nelodev/aoc-2020#readme"
+}
